@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gurleenk24
-- 👀 I’m interested in Web development and Games development.
+- 👀 I’m interested in Web development and Game development.
 - 🌱 I’m currently learning React and Javascript and increasing my knowledge on embedded systems.
 - 📫 How to reach me: My LinkedIn handle: https://www.linkedin.com/in/gurleen-kaur-a499a9239
 - 😄 Pronouns: She/Her
