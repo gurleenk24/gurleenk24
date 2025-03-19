@@ -13,12 +13,12 @@
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 ### GitHub Stats 🌟
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gurleenk24&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurleenk24&layout=compact&theme=tokyonight)
 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gurleenk24&theme=onedark)
 
 
 
