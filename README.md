@@ -11,6 +11,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)  
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)  
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Dialogflow](https://img.shields.io/badge/Dialogflow-000000?style=for-the-badge&logo=dialogflow&logoColor=orange)  
+![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=google-cloud&logoColor=white)  
+![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=googleassistant&logoColor=white)  
+![ML](https://img.shields.io/badge/ML-000000?style=for-the-badge&logo=tensorflow&logoColor=orange)  
+
 
 ### GitHub Stats 🌟
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gurleenk24&show_icons=true&theme=tokyonight)
